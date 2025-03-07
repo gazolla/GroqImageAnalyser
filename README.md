@@ -3,7 +3,7 @@
 GroqImageAnalyser is a Kotlin-based web application built with Ktor, HTMX, Thymeleaf, and Tailwind CSS. It allows users to upload images and get detailed descriptions using the [GroqClientApiKotlin](https://github.com/gazolla/GroqClientApiKotlin) library.
 
 <div style="text-align: center;">
-<img src="groqimageanalyser.gif" width="250" height="350" alt="Descrição do GIF">
+<img src="groqimageanalyser.gif" width="280" height="350" alt="Descrição do GIF">
 </div> 
 
 ## Features
